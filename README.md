@@ -34,6 +34,10 @@ language:
 - **License:** Apache 2.0
 - [cite_start]**Finetuned from model:** [unsloth/DeepSeek-R1-Distill-Qwen-7B](https://huggingface.co/unsloth/DeepSeek-R1-Distill-Qwen-7B) [cite: 8, 25]
 
+- [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model%20Weights-yellow)](https://huggingface.co/YOUR_USERNAME/TRM-Ace-Adapter)
+
+> **Note:** The heavy model weights (LoRA Adapters) are hosted on Hugging Face to ensure repo efficiency.
+
 ### Model Sources
 
 - [cite_start]**Paper:** *Democratizing Autonomous Offensive Cyber-Operations: The TRM-Ace Framework and Agentic Context Engineering* [cite: 1]
